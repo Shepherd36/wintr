@@ -3,7 +3,7 @@ module github.com/ice-blockchain/wintr
 go 1.22
 
 require (
-	cosmossdk.io/math v1.3.0
+	cosmossdk.io/math v1.4.0
 	dario.cat/mergo v1.0.0
 	firebase.google.com/go/v4 v4.14.1
 	github.com/GetStream/stream-go2/v7 v7.1.0
